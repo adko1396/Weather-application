@@ -6,6 +6,9 @@
 <br><hr>
 [Project Performance Video!](https://drive.google.com/file/d/1qQD2Dtd5-QnYYyKX4AaEhVIJa0eI8Cvv/view?usp=sharing)
 <br><hr>
+<br><hr>
+[Download app!](https://github.com/adko1396/Weather-application/raw/refs/heads/main/weather_app.exe)
+<br><hr>
 # Weather application :
 **This program is a tool for viewing the weather of cities and displaying all the countries and cities in the world.**
 <br>
